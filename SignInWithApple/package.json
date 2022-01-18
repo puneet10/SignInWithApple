@@ -11,8 +11,8 @@
   },
   "dependencies": {
     "@invertase/react-native-apple-authentication": "^2.1.5",
-    "react": "17.0.2",
-    "react-native": "0.66.4"
+    "react": "17.0.1",
+    "react-native": "0.64.2"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
